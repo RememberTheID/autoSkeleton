@@ -12,3 +12,5 @@ Vue 3 自动生成骨架屏
 
 本效果基于定位实现。在带有滚动条的页面会禁止滚动，loading 为 false 时会恢复。如果有嵌套滚动条（暂不支持,懒），需要自行修改，原理不难。
 
+![alt text](image.png)
+![alt text](image-1.png)
