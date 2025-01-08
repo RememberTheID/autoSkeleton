@@ -5,6 +5,7 @@ Vue 3 自动生成骨架屏
 本项目依赖于 lodash。
 
 支持全局自定义指令以及局部指令，demo 中为局部指令。
+
 使用方法详见Demo autoSkeleton
 `v-skeleton-item` 必须应用在 DOM 节点上。
 
